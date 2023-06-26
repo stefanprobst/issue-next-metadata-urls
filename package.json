@@ -1,0 +1,18 @@
+{
+  "name": "issue-next-metadata-urls",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/node": "18.16.18",
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
+    "next": "canary",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "5.1.3"
+  }
+}
